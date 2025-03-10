@@ -45,7 +45,7 @@ FLAGS_LIB = -std=c++20 -Wall -Wextra -Werror
 
 NAME_LIB	= \
 
-NAME	=	<REPLACE_ME_WITH_EXECUTABLES>
+NAME	=	AAAa
 
 # ============= SOURCES ============= #
 
