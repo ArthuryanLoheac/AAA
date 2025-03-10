@@ -9,6 +9,6 @@
 
 int main2 ( void )
 {
-    std::cout << "Hello Worlzd\n";
+    std::cout << "Hello Worlzadfd\n";
     return 0;
 }
